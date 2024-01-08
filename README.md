@@ -1,5 +1,7 @@
 # collaboration
- ![Beef Stroganoff](https://img.taste.com.au/rIJRkbR6/w643-h428-cfill-q90/taste/2016/11/beef-stroganoff-13205-1.jpeg)*Beef Stroganoff*
+## Beef Stroganoff
+ ![Beef Stroganoff](https://img.taste.com.au/rIJRkbR6/w643-h428-cfill-q90/taste/2016/11/beef-stroganoff-13205-1.jpeg)
+ 
 
 ## What cut of beef is best for stroganoff?
 ## The best cuts of beef for stroganoff are tender, juicy cuts such as:
