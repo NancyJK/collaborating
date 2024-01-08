@@ -1,10 +1,10 @@
-# collab
- ![Beef Stroganoff](https://img.taste.com.au/rIJRkbR6/w643-h428-cfill-q90/taste/2016/11/beef-stroganoff-13205-1.jpeg)
+# collaboration
+ ![Beef Stroganoff](https://img.taste.com.au/rIJRkbR6/w643-h428-cfill-q90/taste/2016/11/beef-stroganoff-13205-1.jpeg) *Beef Stroganoff*
 
-**What cut of beef is best for stroganoff?
-The best cuts of beef for stroganoff are tender, juicy cuts such as:**
+## What cut of beef is best for stroganoff?
+## The best cuts of beef for stroganoff are tender, juicy cuts such as:
 
-- boneless rib eye – also called scotch fillet (pictured above)
+- boneless rib eye – also called scotch fillet 
 
 - boneless sirloin
 
@@ -12,9 +12,8 @@ The best cuts of beef for stroganoff are tender, juicy cuts such as:**
 
 - beef tenderloin
 
-#### Ingredients
-Ingredients
-- 600 g / 1.2 lb scotch fillet steak / boneless rib eye (Note 1)
+## Ingredients
+- 600 g / 1.2 lb scotch fillet steak / boneless rib eye 
 - 2 tbsp vegetable oil , divided
 - 1 large onion (or 2 small onions), sliced
 - 300 g / 10 oz mushrooms , sliced (not too thin)
