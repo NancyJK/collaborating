@@ -44,4 +44,4 @@ Peace lasted in Europe for just over 20 years after 1918 before war broke out ag
 She's very good at keeping (the) peace within the family.
 The police act on the public's behalf to keep the peace.
 
-### [Link](https://dictionary.cambridge.org/dictionary/english/peace){:target="_blank"} to definition of peace 
+### [Link](https://dictionary.cambridge.org/dictionary/english/peace) to definition of peace 
